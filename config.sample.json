@@ -1,0 +1,5 @@
+{
+  "rootDir": "/media/pi/HDD/nvr",
+  "rtspUrl": "rtsp://<user>:<password>@192.168.1.100:554/stream1",
+  "segmentTime": 900
+}

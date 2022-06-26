@@ -1,0 +1,14 @@
+{
+  "name": "yanvr",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "find-remove": "^4.0.4"
+  }
+}
